@@ -1,0 +1,82 @@
+.LinkDescription {
+    color: black;
+}
+.RectangleHome {
+    height: 1000%;
+    background: rgba(255, 255, 255, 0.788);
+    border: 0px dotted #000000;
+    border-radius: 27px;
+    margin-top: 10vw;   
+    }
+
+.ProductContainer {
+    width: 90vw;
+    height: 30vw;
+    margin-top: 3vw;
+    border-radius: 30px;
+    background-color: hsla(0, 0%, 100%, 0.863);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    
+    
+}
+.ProductContainer:hover{
+    transform: translatey(-10px);
+    box-shadow: 0 12 px 16 px rgba (0, 0, 0, 0.2);
+  
+  }
+
+
+
+.ProductNameContainer {
+    position: absolute;
+    width: 40vw;
+    height: 9vw;
+    margin-top: 0vw;
+    margin-left: 45vw;
+    text-align: center;
+}
+
+.ProductName {
+    margin-top: 2vw;
+    font-size: 4vw;
+    color: black;
+}
+
+.ProductImage {
+    position: absolute;
+    width: 45vw;
+    height: 45vw;
+    margin-top: 2vw;
+    margin-left: 6.5vw;
+    border-radius: 50%;
+}
+
+.PImage {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+.ProductPriceContainer {
+    position: absolute;
+    width: 40vw;
+    height: 10vw;
+    margin-top: 20vw;
+    margin-left: 45vw;
+}
+.ProductDescription{
+    font-size: 3vw;
+    color: black;
+    margin-top:  7vw;
+    margin-left: 45vw;
+    position: absolute;
+}
+.ProductFlavor{
+    font-size: 3vw;
+    color: black;
+    margin-top:  10vw;
+    margin-left: 45vw;
+    position: absolute;
+
+}

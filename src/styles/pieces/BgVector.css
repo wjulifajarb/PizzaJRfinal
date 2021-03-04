@@ -1,0 +1,11 @@
+.ImageContainer {
+    z-index: 0;
+    width: 100vw;
+    height: 200px;
+    top: 50%;
+    background-color: none;
+}
+
+.logojr {
+    width: 100%;
+}
