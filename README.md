@@ -12,7 +12,7 @@ Permite desplegar productos de comida rapida realizar pedidos que se envian al w
 
 2. Abre la carpeta en la terminal.
 
-3. Ejecuta el comando git clone https://github.com/PaolaRoa/beeBeauty.git .
+3. Ejecuta el comando git clone .
 
 4. Ejecuta el comando npm install
 
